@@ -1,4 +1,6 @@
-- title: Blog
-  url: /
 - title: About
   url: /about/
+- title: Talks
+  url: /talks/
+- title: Awards & honors
+  url: /awards/
