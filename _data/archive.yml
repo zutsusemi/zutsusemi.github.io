@@ -1,9 +1,12 @@
 - type: About
   title: About
-  url: /
+  url: /about
 - type: Talks
   title: Talks
   url: /talks/
 - type: Awards
   title: Awards & Honors
   url: /awards/
+- type: Albums
+  title: Albums
+  url: /albums
